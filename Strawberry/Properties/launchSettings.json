@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Strawberry (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Strawberry (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
